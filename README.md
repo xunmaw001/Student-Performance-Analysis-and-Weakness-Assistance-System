@@ -1,0 +1,2 @@
+# Student-Performance-Analysis-and-Weakness-Assistance-System
+基于Spring Boot和Vue的学生成绩分析和弱项辅助系统旨在帮助教育机构提升学生成绩管理和分析效率。后端使用Spring Boot处理成绩数据的存储和分析，确保数据安全；前端采用Vue.js，提供用户友好的界面，便于教师和学生查看成绩和分析报告。系统功能包括成绩录入、统计分析、弱项识别和个性化辅导建议，帮助学生明确学习薄弱环节，从而提高学习效果和整体学业水平。
